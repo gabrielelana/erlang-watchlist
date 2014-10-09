@@ -1,10 +1,7 @@
 # Erlang Watchlist
-
 A curated list of references where to find good code to read to master Erlang idioms
 
-
 ## Users
-
 * [Fred Hebert](https://github.com/ferd)
 * [Ulf Wiger](https://github.com/uwiger)
 * [Garrett Smith](https://github.com/gar1t)
@@ -15,3 +12,4 @@ A curated list of references where to find good code to read to master Erlang id
 * [Robert Virding](https://github.com/rvirding)
 
 ## Repositories
+* [Elvis](https://github.com/inaka/elvis) Erlang Style Checker (meck, rebar, coverage)
