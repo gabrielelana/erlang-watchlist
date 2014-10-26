@@ -15,3 +15,4 @@ A curated list of references where to find good code to read to master Erlang id
 ## Repositories
 * [Elvis](https://github.com/inaka/elvis) Erlang Style Checker (meck, rebar, coverage)
 * [eTorrent](https://github.com/jlouis/etorrent) Bittorrent client written in Erlang (mostly conceived as an experiment in how easy it would be to write a bittorrent client in Erlang)
+* [Erlang QuickCheck Mini](https://github.com/rpt/eqcmini) This is a fully functional stripped down version of Quviq QuickCheck with some interesting examples
