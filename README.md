@@ -10,6 +10,8 @@ A curated list of references where to find good code to read to master Erlang id
 * [Kevin Smith](https://github.com/kevsmith)
 * [Yurii Rashkovskii](https://github.com/yrashk)
 * [Robert Virding](https://github.com/rvirding)
+* [Jesper Louis Andersen](https://github.com/jlouis)
 
 ## Repositories
 * [Elvis](https://github.com/inaka/elvis) Erlang Style Checker (meck, rebar, coverage)
+* [eTorrent](https://github.com/jlouis/etorrent) Bittorrent client written in Erlang (mostly conceived as an experiment in how easy it would be to write a bittorrent client in Erlang)
