@@ -21,3 +21,4 @@ A curated list of references where to find good code to read to master Erlang id
 * [eTorrent](https://github.com/jlouis/etorrent) Bittorrent client written in Erlang (mostly conceived as an experiment in how easy it would be to write a bittorrent client in Erlang)
 * [Erlang QuickCheck Mini](https://github.com/rpt/eqcmini) This is a fully functional stripped down version of Quviq QuickCheck with some interesting examples
 * [Erlang Priority Queues](https://github.com/okeuday/pqueue) Nice because it is tested with PropEr as explained [here](http://jlouisramblings.blogspot.it/2011/12/example-of-property-based-testing-in.html)
+* [Egol](https://github.com/lehoff/egol) Game of Life (educational)
