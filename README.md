@@ -13,6 +13,7 @@ A curated list of references where to find good code to read to master Erlang id
 * [Robert Virding](https://github.com/rvirding)
 * [Jesper Louis Andersen](https://github.com/jlouis)
 * [Michael Truog](https://github.com/okeuday)
+* [Torben Hoffmann](https://github.com/lehoff)
 
 ## Repositories
 * [Trifork QuickCheck](https://github.com/krestenkrab/triq) An open and free Quickcheck for Erlang
