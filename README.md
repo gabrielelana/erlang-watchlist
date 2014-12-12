@@ -23,3 +23,4 @@ A curated list of references where to find good code to read to master Erlang id
 * [Erlang QuickCheck Mini](https://github.com/rpt/eqcmini) This is a fully functional stripped down version of Quviq QuickCheck with some interesting examples
 * [Erlang Priority Queues](https://github.com/okeuday/pqueue) Nice because it is tested with PropEr as explained [here](http://jlouisramblings.blogspot.it/2011/12/example-of-property-based-testing-in.html)
 * [Egol](https://github.com/lehoff/egol) Game of Life (educational)
+* [stdlib2](https://github.com/cannedprimates/stdlib2) Erlang stdlib extensions
