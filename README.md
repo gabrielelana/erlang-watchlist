@@ -16,6 +16,10 @@ A curated list of references where to find good code to read to master Erlang id
 * [Torben Hoffmann](https://github.com/lehoff)
 
 ## Repositories
+* [Jobs](https://github.com/uwiger/jobs) A job scheduler for load regulation
+* [Locks](https://github.com/uwiger/locks) Scalable deadlock-resolving locking system based on an algorithm designed by Ulf Wiger in 1993
+* [POTS](https://github.com/uwiger/pots) originally used at Ericsson's basic Erlang course
+* [Plain FSM](https://github.com/uwiger/plain_fsm) A behaviour/support library for writing plain Erlang FSMs
 * [Trifork QuickCheck](https://github.com/krestenkrab/triq) An open and free Quickcheck for Erlang
 * [HanoiDB](https://github.com/krestenkrab/hanoidb) Erlang LSM BTree Storage
 * [Elvis](https://github.com/inaka/elvis) Erlang Style Checker (meck, rebar, coverage)
